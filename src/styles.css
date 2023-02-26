@@ -16,8 +16,15 @@ body {
     color: #231d3c;
   }
   
-  .logo {
+  .SheCodesLogo {
     display: block;
     margin: 30px auto;
     width: 150px;
+  }
+  .email-link:hover {
+    color: red;
+  }
+  
+  a:visited {
+    color: green;
   }
