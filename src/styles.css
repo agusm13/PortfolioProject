@@ -15,7 +15,7 @@ body {
   h3 {
     color: #231d3c;
   }
-  /*
+  
   .SheCodesLogo {
     display: block;
     margin: 30px auto;
@@ -25,27 +25,6 @@ body {
     color: red;
     text-decoration: underline;
   }
-  .aboutBack-link:hover{
-    color: red;
-    text-decoration: underline;
-  }
-  .contactBack-link:hover{
-    color: red;
-    text-decoration: underline;
-  }
-  .goAbout-Link:hover{
-    color: red;
-    text-decoration: underline;
-  }
-  .goContact-Link:hover{
-    color: red;
-    text-decoration: underline;
-  }*/
-  a:hover{
-    color: red;
-  
-  }
-  
-  a:visited {
+  a:visited{
     color: green;
   }
